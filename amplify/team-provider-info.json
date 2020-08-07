@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-envel-dev-235141-authRole",
+            "UnauthRoleArn": "arn:aws:iam::562144647687:role/amplify-envel-dev-235141-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::562144647687:role/amplify-envel-dev-235141-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-envel-dev-235141-deployment",
+            "UnauthRoleName": "amplify-envel-dev-235141-unauthRole",
+            "StackName": "amplify-envel-dev-235141",
+            "StackId": "arn:aws:cloudformation:us-east-1:562144647687:stack/amplify-envel-dev-235141/30f0d500-d8f8-11ea-8540-0ed2247e0ea9",
+            "AmplifyAppId": "d2oey74ikkec3n"
+        },
+        "categories": {
+            "auth": {
+                "envel19a31f61": {}
+            }
+        }
+    }
+}

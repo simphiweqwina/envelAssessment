@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"envel19a31f61": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
