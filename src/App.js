@@ -5,7 +5,7 @@ import { withAuthenticator, AmplifySignOut } from '@aws-amplify/ui-react';
 const App = () => (
   <div>
     <AmplifySignOut />
-    My App
+    <h1>You are now logged in</h1>
   </div>
 );
 
